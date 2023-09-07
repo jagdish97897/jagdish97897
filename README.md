@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)](https://rishavchanda.io)
+[![MasterHead](https://github.com/jagdish97897/jagdish97897/blob/main/Untitled.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jagdish Prasad Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
